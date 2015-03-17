@@ -1,0 +1,11 @@
+{
+  "name": "simplistic-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A minimalistic simple theme for Atom with shades of gray",
+  "repository": "https://github.com/abiosoft/simplistic-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
